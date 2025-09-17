@@ -41,4 +41,5 @@ Policy Optimization → Helps insurers design profitable plans by targeting safe
 Strategic Planning → Aligns claims data with customer demographics for data-driven decisions.
 
 Screenshots / Demos
-This is how the dashboard will look like :![Car Insurance Data](
+This is how the dashboard will look like :![Car Insurance Data](https://github.com/ChaithraBR26/Car-Insurance-Data/blob/main/Insurance%20data.png)
+
